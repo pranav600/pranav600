@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" type="text/css" href="http://ghatwar.github.io/Coursera-test0/mod_solution2/css/style.css">
+
+</head>
+
+<body>
+<h1><b>Our Menu</b></h1>
+
+<div class="row">
+
+  <div class="col-lg-4 col-md-6 col-sm-12">
+  <div class = "section">
+  <h2 class="chicken">Chicken</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Because the distinction of the enduring of the flight of a desire for something, it is as if they are at other times she does not, by reason of their sorrows' s nothing! Manufacturers follow the entire incident pleasure to be released expedita.neque </p>
+  </div>
+  </div>
+  <div class="col-lg-4 col-md-6">
+  <div class = "section">
+  <h2 class="beef">Beef</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excellent sayings of the Blessed Virgin, nor in the pleasures of the pleasure of being is that of a great come easy to please her, and at once take the right of labor, from which he hateth her, provided for by the of it! No, minima.Lorem very carrots, enhanced rebates.</p>  
+  </div>
+  </div>
+  <div class="col-lg-4 col-md-12"><div class = "section"><h2 class="Sushi">Sushi</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excellent sayings of the Blessed Virgin, nor in the pleasures of the pleasure of being is that of a great come easy to please her, and at once take the right of labor, from which he hateth her, provided for by the of it! No, minima.Lorem very carrots, enhanced rebates.</p>
+  </div>
+  </div>
+ 
+
+</div>
+
+</body>
+</html>
