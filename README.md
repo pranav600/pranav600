@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Joshi</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<img align="right" alt="coding" width="400" src="coding.png" style="border-radius: 50%;">
+<img align="right" alt="coding" width="350" src="coding.png" style="border-radius: 50%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav600&label=Profile%20views&color=0e75b6&style=flat" alt="pranav600" /> </p>
 
