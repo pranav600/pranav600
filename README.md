@@ -19,5 +19,5 @@
 <a href="https://instagram.com/prnv_3322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prnv_3322" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav600&" alt="pranav600" /></p>
+
 
