@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav600&label=Profile%20views&color=0e75b6&style=flat" alt="pranav600" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,MVC Architecture,Logic Building with JAVA.**
+- 🌱 I’m currently learning **React,Next.js,Node JS,Logic Building with JAVASCRIPT.**
 
 - 💬 Ask me about **Anything.**
 
