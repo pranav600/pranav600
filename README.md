@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Joshi</h1>
 <h3 align="center">💻 Computer Science Student | 💡 Tech Enthusiast</h3>
 
-<img align="right" alt="coding" width="300" src="code.png" style="border-radius: 12px;" />
-
 - 🌱 I’m currently learning **React, Next.js, Node.js**, and working on **logic building with JavaScript**
 - 💬 Ask me about **frontend, backend, JavaScript logic**
 - 📫 Reach me at **pranavjoshitkd@gmail.com**
