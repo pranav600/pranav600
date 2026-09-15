@@ -55,24 +55,11 @@ Building things, breaking things, and learning how they work.
 
 ## Connect With Me
 
-<div align="center">
-
-
-<a href="https://www.linkedin.com/in/prnvj/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
-<a href="mailto:pranavjoshitkd@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.joshipranav.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prnvj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pranavjoshitkd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.joshipranav.dev/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
 
 <br>
 
